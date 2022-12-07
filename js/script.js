@@ -202,6 +202,4 @@ $("#circleBottomRcolor").on("change", function () {
     $("#circleBottomR .st2").css("fill", $(this).val())
 })
 
-$("#LargeGreyFrontcolor").on("change", function () {
-    $("#LargeGreyFront .st1").css("fill", $(this).val())
-})
+
